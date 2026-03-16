@@ -1,5 +1,13 @@
-def add(num1, num2, num3=0):
-    return num1 + num2 + num3
+# author: Leon Schawerda
+
+import pandas
+
+""" adds up all numbers of a list """
+def add(values): 
+    result = 0
+    for val in values:
+        result += val
+    return result
 
 def subtract (num1, num2):
     return (num1-num2)
