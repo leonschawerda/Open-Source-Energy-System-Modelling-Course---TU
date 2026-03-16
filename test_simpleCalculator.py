@@ -1,14 +1,16 @@
-import HelloWorld
 import simpleCalculator
 
 def test_add():
-	assert simpleCalculator.add(2, 4) == 6
+	values = [1,2,3,4]
+	assert simpleCalculator.add(values) == 10
 	
 def test_substract():
-	assert simpleCalculator.subtract(6, 4) == 2
+	values = [2,2,2,2]
+	assert simpleCalculator.subtract(10, values) == 2
 	
 def test_multiply():
-	assert simpleCalculator.multiply(2, 4) == 8
+	values = [2,2,2,2]
+	assert simpleCalculator.multiply(values) == 16
 	
 def test_divide():
 	assert simpleCalculator.divide(8, 4) == 2
