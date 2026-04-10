@@ -1,4 +1,6 @@
 # author: Leon Schawerda
+import math
+import math
 
 """ adds up all numbers of a list """
 def add(values): 
