@@ -13,4 +13,4 @@ def test_multiply():
 	assert simpleCalculator.multiply(values) == 16
 	
 def test_divide():
-	assert simpleCalculator.divide(8, 4) == 3
+	assert simpleCalculator.divide(8, 4) == 2
