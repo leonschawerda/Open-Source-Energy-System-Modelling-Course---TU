@@ -23,6 +23,8 @@ def multiply (values):
 
 """divide the first number by the second"""
 def divide (x,y) :
-         return x / y
+     return x / y
 
+def test():
+ print("Check Linter")
 
