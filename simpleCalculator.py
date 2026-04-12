@@ -22,7 +22,5 @@ def multiply (values):
     return result
 
 """divide the first number by the second"""
-def divide (x,y):
-    return x / y
-
-
+def divide (x,y) :
+     return x / y

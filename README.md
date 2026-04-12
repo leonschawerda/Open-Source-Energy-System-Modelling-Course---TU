@@ -2,7 +2,7 @@ Copyright 2026 Leon Schawerda
 
 License: MIT
 
-This project is released under an MIT LICENSE.
+This project is released under an MIT LICENSE
 
 Purpose of this project is to get familiar with:
 1.) git (add, commit, push, pull)
